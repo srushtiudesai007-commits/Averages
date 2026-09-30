@@ -6,3 +6,4 @@ num3 = float(input("Enter the third number: "))
 # Calculate and display the average
 average = (num1 + num2 + num3) / 3
 print(f"The average of the three numbers is: {average:.2f}")
+print("The given answer is the average of the 3 numbers")
